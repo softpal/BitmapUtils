@@ -4,7 +4,7 @@
 ### Developed by
 [Softpal](https://www.github.com/softpal)
 
-[![](https://jitpack.io/v/softpal/DateTimeUtils.svg)](https://jitpack.io/#softpal/DateTimeUtils)
+[![](https://jitpack.io/v/softpal/BitmapUtils.svg)](https://jitpack.io/#softpal/BitmapUtils)
 
 
 **Features**
@@ -27,7 +27,7 @@ Add repository url and dependency in application module gradle file:
     
     
 ### Gradle
-[![](https://jitpack.io/v/softpal/DateTimeUtils.svg)](https://jitpack.io/#softpal/DateTimeUtils)
+[![](https://jitpack.io/v/softpal/BitmapUtils.svg)](https://jitpack.io/#softpal/BitmapUtils)
 ```javascript
 dependencies {
     implementation 'com.github.softpal:BitmapUtils:1.0'
