@@ -10,7 +10,7 @@
 **Features**
 
 Get Size of the image file. <br>
-Decodes image and scales it to reduce memory consumption.
+Decode image and scale it to reduce memory consumption.
 
 
 ## Installation
